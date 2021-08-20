@@ -1,3 +1,9 @@
+ <!---People who inspire me to do this readme:
+
+Mateus Nascimento - https://github.com/MNascimentoS
+Ana Dias - https://github.com/baiana
+Rafaella Ballerini - https://github.com/rafaballerini -->
+ 
  <div>
     <img src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/banner.gif"/>
  </div>
@@ -51,4 +57,3 @@
     &nbsp
     <img width="8" src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png"style="vertical-align: middle">
 </div>
- 
