@@ -16,7 +16,7 @@
     <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <img width="14"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="12" src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/big_dot.png">
     &nbsp
     &nbsp
     <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
