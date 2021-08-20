@@ -13,19 +13,19 @@
     <img height="28" src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/pacman.png">
     &nbsp
     &nbsp
-    <img height="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <img height="14"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="14"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <img height="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <img height="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <img height="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
     <a href = "https://github.com/thisaislan"><img src="https://img.shields.io/badge/GitHub-E194C0?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -40,15 +40,15 @@
     <a href="https://play.google.com/store/apps/developer?id=thisaislan" target="_blank"><img src="https://img.shields.io/badge/Google_Play-D98D03?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
     &nbsp
     &nbsp
-    <img height="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <img height="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <img height="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
+    <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <img height="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png"style="vertical-align: middle">
+    <img width="8"  src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png"style="vertical-align: middle">
 </div>
  
