@@ -43,7 +43,7 @@ Rafaella Ballerini - https://github.com/rafaballerini -->
     <a href="https://www.linkedin.com/in/thisaislan/"><img src="https://img.shields.io/badge/-LinkedIn-07B7E0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     &nbsp
     &nbsp
-    <a href="https://play.google.com/store/apps/developer?id=thisaislan" target="_blank"><img src="https://img.shields.io/badge/Google_Play-D98D03?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
+    <a href="https://play.google.com/store/apps/dev?id=7066955527387501200&hl=en_US" target="_blank"><img src="https://img.shields.io/badge/Google_Play-D98D03?style=for-the-badge&logo=google-play&logoColor=white" target="_blank">
     &nbsp
     &nbsp
     <img width="8" src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
