@@ -34,7 +34,7 @@ Rafaella Ballerini - https://github.com/rafaballerini -->
     <img width="8" src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/dot.png">
     &nbsp
     &nbsp
-    <a href="https://github.com/thisaislan"><img src="https://img.shields.io/badge/GitHub-E194C0?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    <a href="https://thisaislan.itch.io/"><img src="https://img.shields.io/badge/itch.io-E194C0?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank">
     &nbsp
     &nbsp
     <a href="mailto:this.aislan@gmail.com"><img src="https://img.shields.io/badge/-Email-E00503?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
