@@ -7,13 +7,8 @@ Rafaella Ballerini - https://github.com/rafaballerini -->
  <div>
     <img src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/banner.gif"/>
  </div>
- <div>
-  <a href="https://github.com/thisaislan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisaislan&show_icons=true&include_all_commits=true&count_private=true&title_color=C2D1D9&text_color=8B949E&bg_color=0D1117&icon_color=3EA6FF&border_color=30363D00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisaislan&layout=compact&langs_count=7&title_color=C2D1D9&text_color=8B949E&bg_color=0D1117&icon_color=3EA6FF&border_color=30363D00"/>
-</div>
 
-##
+<br/>
 
 <div>
     <img height="28" src="https://raw.githubusercontent.com/thisaislan/thisaislan/main/.github/images/pacman.png">
